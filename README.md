@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TradesmanBOB
+- 👋 Hi, I’m @rednaxc
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning web based coding (with the generic html, css, javascript languages)
 - 💞️ I’m looking to collaborate on ideas & Inspiration for a first person frostpunk RTS
